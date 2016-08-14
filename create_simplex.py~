@@ -63,5 +63,4 @@ if __name__ == '__main__':
 
     fig = plot_rgb_image(M)
     fig.show()
-    fig.savefig('/home/tammo/hamming_projects/local_figs/rgb_simplex.png')
-    fig.savefig('./rgb_simplex.png')
+
